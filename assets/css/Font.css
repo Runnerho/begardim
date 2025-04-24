@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "ff-semibold";
+  src: url("../fonts/TTF/YekanBakh-SemiBold.ttf");
+  src: url("../fonts/TTF/YekanBakh-SemiBold.ttf") format("truetype"),
+    url("../fonts/woff/YekanBakh-SemiBold.woff") format("woff");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "poppins-m";
+  src: url("../fonts/poppins/Poppins-Medium.ttf");
+}
+@font-face {
+  font-family: "poppins-b";
+  src: url("../fonts/poppins/Poppins-Black.ttf");
+}
